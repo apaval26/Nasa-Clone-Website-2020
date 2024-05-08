@@ -1,0 +1,235 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image:url("../images/background.gif");
+	background-repeat:repeat;
+	}
+	
+    .button {                      /*  Navigation menu buttons style */
+        font-size: 15px;
+        margin-left: 17px;
+        text-decoration: none;
+        color: white;
+        border: 1px solid white;
+        background-color: cornflowerblue;
+        padding: 14px;
+    }
+
+        .button:hover {
+            background-color: lightblue;
+        }
+	
+	h1 {
+	color: white; /*  Main heading style */
+	}
+	
+	p {
+	color: white; /*  Paragraph style */
+	}
+	
+	.text {
+	margin-left: 90px;
+	width: 900px;
+	text-align: left;
+	}
+	
+	
+
+	#video2 {
+     margin-left: 30px;
+	 padding-bottom: 20px;
+	 height: 295px;
+	 border: 4px solid white;
+	}
+
+
+	#social {
+	position: absolute;
+	margin-bottom: 10px;
+	padding-bottom: 15px;
+	margin-left: 10px;
+	}
+
+	#video1 {
+	border: 4px solid white;
+	}
+	
+	a {
+		
+	font-weight: bold;
+	}
+
+
+        #Satellites.hover {
+		
+	-webkit-transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+    transition: all .7s ease-in-out;
+
+    }
+
+   #img {
+	border:4px solid white;
+   }
+
+	#footer {
+	 width: 100%;
+	}
+	
+	
+	#video1 {
+	border: 4px solid white;
+	
+	}
+	
+	table {
+		
+	overflow: hidden;
+	white-space: hidden;
+	}
+	
+	tr{
+	white-space: hidden;
+	}
+
+    a:hover {
+
+	text-decoration: underline;
+	}
+
+    #links {
+  
+        margin-left: 10px;
+    }
+   
+	a {
+		
+	font-weight: bold;
+	}
+
+    a {
+	font-size: 20px;
+	text-decoration: none;
+	
+	
+	}
+
+    .text {
+	margin-left: 90px;
+	width: 900px;
+	text-align: left;
+	white-space: hidden;
+	overflow: hidden;
+	}
+	
+	
+
+	#armstrong {
+		float: right;
+		margin-bottom: 100px;
+		
+	}
+		
+	a {
+		
+	font-weight: bold;
+	}
+		
+		
+		
+	
+
+    
+
+
+    #video1 {
+	border: 4px solid white;
+	
+	}
+	
+	#video2 {
+	margin-left: 30px;
+	 padding-bottom: 20px;
+	 height: 295px;
+	 border: 4px solid white;
+	}
+	
+		
+	
+
+   #img {
+	border:4px solid white;
+   }
+
+	#footer {
+	 width: 100%;
+	}
+	
+	
+	#video1 {
+	border: 4px solid white;
+	
+	}
+	
+	table {
+		
+	overflow: hidden;
+	white-space: hidden;
+	}
+	
+	tr{
+	white-space: hidden;
+	}
+
+#map {
+	margin-left: 700px;
+	
+	
+	
+	}
+
+	#order {
+	width: 500px;
+	height: 100px;
+	}
+
+	form {
+	margin-left: 100px;
+	padding-top: 70px;
+	}
+
+	iframe {
+	margin-left: 700px;
+	margin-bottom: 500px;
+	}
+
+
+	#info {
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 48px;
+	
+	text-align: center;
+	}
+	
+	
+	
+	#location {
+	float: right;
+	text-align: center;
+    margin-bottom:250px;
+	position: absolute;
+	}
+	
+	.text {
+	margin-left: 90px;
+	width: 900px;
+	text-align: left;
+	}
+	
+	
+	
+	
